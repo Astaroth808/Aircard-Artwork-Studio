@@ -43,6 +43,10 @@ System (follows your OS, including high-contrast mode), Light, Dark, High contra
 - Colours and scaling may differ slightly between your browser and your phone.
 - SVG, HEIC and GIF files aren't supported. Convert them to PNG or JPEG first.
 
+## License
+
+Released under the [MIT License](LICENSE).
+
 ---
 
 AirCard Guide community utility. This tool only prepares images; installing, connecting and applying artwork is done in AirCard.
