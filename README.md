@@ -6,8 +6,15 @@ Everything runs locally in your browser. Images are never uploaded, and the page
 
 ## Use it
 
-1. Download `index.html`.
+**Open it online:** https://astaroth808.github.io/Aircard-Artwork-Studio/
+
+Or use it offline:
+
+1. Download `index.html`, or use **Save page as…** on the online version.
 2. Open it in a current browser (Chrome, Edge, Firefox or Safari). No install, account or internet connection is needed.
+
+Then:
+
 3. Choose, drop or paste (Ctrl/⌘+V) a PNG, JPEG or WebP image.
 4. Adjust the framing, then click **Download artwork PNG**.
 5. In AirCard, select the exported PNG, preview it and apply it.
